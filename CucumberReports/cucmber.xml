@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="22.155">
+    <testcase classname="Contact Us page Test" name="ContactUs Page" time="11.409">
+        <system-out>
+            <![CDATA[Given I am contact us Page..................................................passed
+When I fill the form from sheet 'Sheet1' and rowNumber 2....................passed
+And user click on send button...............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Contact Us page Test" name="ContactUs Page 2" time="10.62">
+        <system-out>
+            <![CDATA[Given I am contact us Page..................................................passed
+When I fill the form from sheet 'Sheet1' and rowNumber 3....................passed
+And user click on send button...............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
